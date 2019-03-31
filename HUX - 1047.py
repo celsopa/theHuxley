@@ -1,0 +1,12 @@
+n1 = int(input())
+n2 = int(input())
+n3 = int(input())
+p1 = int(input())
+p2 = int(input())
+p3 = int(input())
+mediaA = (n1+n2+n3)/3
+mediaH = 3/((1/n1)+(1/n2)+(1/n3))
+mediaP = (n1*p1 + n2*p2 + n3*p3)/(p1+p2+p3)
+print("a: {:.1f}".format(mediaA))
+print("p: {:.1f}".format(mediaP))
+print("h: {:.1f}".format(mediaH))
