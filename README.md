@@ -1,5 +1,5 @@
 # theHuxley
-![Logotipo The Huxley](./hux.png) Resolução de questões encontradas no site The Huxley &lt;https://www.thehuxley.com/>
+![Logotipo The Huxley](./hux.png) Resolução de questões encontradas no site [The Huxley]. (https://www.thehuxley.com/)
 
 Código-fonte das questões disponíveis no site "The Huxley".
 Os nomes dos arquivos estão salvos com os respectivos números das questões.
