@@ -1,0 +1,6 @@
+linha1 = input().split()
+linha2 = input().split()
+linha1.sort()
+linha2.sort()
+print(linha1[0],linha1[1],linha1[2])
+print(linha2[0],linha2[1],linha2[2])
