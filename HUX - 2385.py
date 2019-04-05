@@ -16,14 +16,18 @@ if 0 < d1 <= 19:
     Com1 *= 1 - 0
     Refri1 *= 1 - 0.10
     Deco1 *= 1 - 0.15
-elif d1 == 20:          ##########Problema
-    Com1 *= 1 - 0.12
-    Refri1 *= 1 - 0.15
-    Deco1 *= 1 - 0.20
-elif d1 == 21:          ##########Problema
-    Com1 *= 1 - 0.17
-    Refri1 *= 1 - 0.22
-    Deco1 *= 1 - 0.27
+# elif d1 == 20:            # Problema #
+#     Com1 *= 1 - 0.12      # Deve ser #
+#     Refri1 *= 1 - 0.15    # EXCLUIDO #
+#     Deco1 *= 1 - 0.20     # ######## #
+elif d1 == 21:          # Problema
+    Com1 *= 1 - 0.12    # O desconto do dia 20 #
+    Refri1 *= 1 - 0.15  #   deve ser colocada  #
+    Deco1 *= 1 - 0.20   #     para o dia 21    #
+# elif d1 == 21:          ##########Problema
+#     Com1 *= 1 - 0.17
+#     Refri1 *= 1 - 0.22
+#     Deco1 *= 1 - 0.27
 elif d1 == 22:
     Com1 *= 1 - 0.20
     Refri1 *= 1 - 0.22
@@ -111,4 +115,3 @@ else:
 print("Compras de natal: R$ {:.2f}.".format(Com1+Refri1+Deco1))
 print("Compras de ano novo: R$ {:.2f}.".format(Com2+Refri2+Cerv2+Deco2))
 print("Total das compras: R$ {:.2f}.".format(Com1+Refri1+Deco1+Com2+Refri2+Cerv2+Deco2))
-
