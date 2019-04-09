@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cc0011-67d6-40f4-9463-1d8db986b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IFAL_SI_20191.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IFAL_SI_20191.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX - 2385.py" beforeDir="false" afterPath="$PROJECT_DIR$/HUX - 2385.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX - 2192.py" beforeDir="false" afterPath="$PROJECT_DIR$/HUX - 2192.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,21 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HUX - 2385.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="114" column="56" lean-forward="true" selection-start-line="114" selection-start-column="56" selection-end-line="114" selection-end-column="56" />
+            <state relative-caret-position="299">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HUX - 2192.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="18" lean-forward="true" selection-end-line="41" selection-end-column="52" />
+            <state relative-caret-position="378">
+              <caret line="18" column="33" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -111,10 +109,10 @@
         <option value="$PROJECT_DIR$/HUX - 2455.py" />
         <option value="$PROJECT_DIR$/HUX - 1315.py" />
         <option value="$PROJECT_DIR$/HUX - 1992.py" />
-        <option value="$PROJECT_DIR$/HUX - 2192.py" />
         <option value="$PROJECT_DIR$/HUX - 2191.py" />
         <option value="$PROJECT_DIR$/HUX - 2385.py" />
         <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/HUX - 2192.py" />
       </list>
     </option>
   </component>
@@ -168,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HUX - 2385">
+  <component name="RunManager" selected="Python.HUX - 2192">
     <configuration name="HUX - 1992" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IFAL_SI_20191" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,10 +303,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HUX - 2192" />
         <item itemvalue="Python.HUX - 2385" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.HUX - 2191" />
-        <item itemvalue="Python.HUX - 2192" />
         <item itemvalue="Python.HUX - 1992" />
       </list>
     </recent_temporary>
@@ -337,6 +335,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18374091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -643,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HUX - 2192.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="13" column="21" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HUX - 2191.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -691,17 +683,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
+    <entry file="file://$PROJECT_DIR$/HUX - 2385.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="18" lean-forward="true" selection-end-line="41" selection-end-column="52" />
+        <state relative-caret-position="257">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HUX - 2385.py">
+    <entry file="file://$PROJECT_DIR$/teste.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="114" column="56" lean-forward="true" selection-start-line="114" selection-start-column="56" selection-end-line="114" selection-end-column="56" />
+        <state relative-caret-position="299">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HUX - 2192.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="33" selection-end-line="22" />
         </state>
       </provider>
     </entry>

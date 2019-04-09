@@ -1,23 +1,22 @@
 entrada = input().split()
-D = int(entrada[0])
-R = int(entrada[1])
-L = int(entrada[2])
-P = int(entrada[3])
-G = int(entrada[4])
-distMax = L*10
-difDist = D - distMax
-distPostos = D/(P+1)
-distRestante = distPostos-distMax
-# reaisNeces = difDist/(10*G)
-if difDist <=0:
+D = int(entrada[0]) #distancia entre cidades
+R = int(entrada[1]) #dinheiro disponivel
+L = int(entrada[2]) #capacidade do tanque do carro
+P = int(entrada[3]) #quantidade de postos de gasolina
+G = int(entrada[4]) #preco da gasolina
+carroAutonomia = L*10
+distanciaEntrePostos = D/(P+1)
+distanciaRestante = D - carroAutonomia
+postosUltrapassados = carroAutonomia//distanciaEntrePostos
+gastoAbastecimento = (distanciaRestante/10)*G
+if carroAutonomia >= D:
     print("Pode viajar.")
     print("R$: {}".format(R))
-elif distRestante <=0:
-    abastNecess = (distRestante/10)*G
-    saldo = R + abastNecess
-    if saldo >=0:
-        print("Pode viajar.")
-        print("R$: {}".format(int(saldo)))
-    else:
+else:
+    if gastoAbastecimento > R:
         print("Nao pode viajar.")
-
+    elif distanciaEntrePostos > carroAutonomia:
+        print("Nao pode viajar.")
+    else:
+        print("Pode viajar.")
+        print("R$: {}".format(int(R-gastoAbastecimento)))
