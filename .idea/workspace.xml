@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cc0011-67d6-40f4-9463-1d8db986b41f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HUX - 2000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX - 2203.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX - 2353.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX - 675.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX - 1291.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX - 1302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX - 2412.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Temperatura C  para F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Temperatura F para C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lata de oleo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. Combustivel gasto na viagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX - 1250.py" beforeDir="false" afterPath="$PROJECT_DIR$/HUX - 1250.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HUX - 2000.py">
+        <entry file="file://$PROJECT_DIR$/HUX - 1250.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="411">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="24" column="4" lean-forward="true" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -60,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HUX - 2506.py" />
-        <option value="$PROJECT_DIR$/HUX - 2456.py" />
-        <option value="$PROJECT_DIR$/HUX - 262.py" />
-        <option value="$PROJECT_DIR$/HUX - 55.py" />
         <option value="$PROJECT_DIR$/HUX - 406.py" />
         <option value="$PROJECT_DIR$/HUX - 729.py" />
         <option value="$PROJECT_DIR$/HUX - 1166.py" />
@@ -108,9 +109,13 @@
         <option value="$PROJECT_DIR$/Aula-090419-Q3.py" />
         <option value="$PROJECT_DIR$/HUX - 675.py" />
         <option value="$PROJECT_DIR$/HUX - 2203.py" />
-        <option value="$PROJECT_DIR$/teste.py" />
         <option value="$PROJECT_DIR$/HUX - 2353.py" />
         <option value="$PROJECT_DIR$/HUX - 2000.py" />
+        <option value="$PROJECT_DIR$/HUX - 1291.py" />
+        <option value="$PROJECT_DIR$/HUX - 1302.py" />
+        <option value="$PROJECT_DIR$/HUX - 2412.py" />
+        <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/HUX - 1250.py" />
       </list>
     </option>
   </component>
@@ -173,8 +178,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HUX - 2000">
-    <configuration name="HUX - 2000" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.teste">
+    <configuration name="HUX - 1250" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IFAL_SI_20191" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 2000.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 1250.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HUX - 2203" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HUX - 1291" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IFAL_SI_20191" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +214,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 2203.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 1291.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HUX - 2353" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HUX - 1302" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IFAL_SI_20191" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +236,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 2353.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 1302.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HUX - 675" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HUX - 2412" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IFAL_SI_20191" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +258,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 675.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HUX - 2412.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,19 +313,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.HUX - 675" />
-      <item itemvalue="Python.HUX - 2203" />
-      <item itemvalue="Python.HUX - 2353" />
+      <item itemvalue="Python.HUX - 1291" />
+      <item itemvalue="Python.HUX - 1302" />
+      <item itemvalue="Python.HUX - 2412" />
+      <item itemvalue="Python.HUX - 1250" />
       <item itemvalue="Python.teste" />
-      <item itemvalue="Python.HUX - 2000" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HUX - 2000" />
-        <item itemvalue="Python.HUX - 2353" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.HUX - 2203" />
-        <item itemvalue="Python.HUX - 675" />
+        <item itemvalue="Python.HUX - 1250" />
+        <item itemvalue="Python.HUX - 2412" />
+        <item itemvalue="Python.HUX - 1302" />
+        <item itemvalue="Python.HUX - 1291" />
       </list>
     </recent_temporary>
   </component>
@@ -337,12 +342,15 @@
       <workItem from="1556847053584" duration="1174000" />
       <workItem from="1557485005560" duration="3455000" />
       <workItem from="1557501877209" duration="1763000" />
-      <workItem from="1557503707455" duration="542000" />
+      <workItem from="1557503707455" duration="3401000" />
+      <workItem from="1557518049259" duration="3933000" />
+      <workItem from="1557533480652" duration="1454000" />
+      <workItem from="1557581031186" duration="2271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6934000" />
+    <option name="totallyTimeSpent" value="17451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,18 +365,18 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19436997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20241287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5365497" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14766082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41959065" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -386,41 +394,17 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/theHuxley$teste.coverage" NAME="teste Coverage Results" MODIFIED="1557503315882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/theHuxley$HUX___2412.coverage" NAME="HUX - 2412 Coverage Results" MODIFIED="1557507018556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/theHuxley$teste.coverage" NAME="teste Coverage Results" MODIFIED="1557583202427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/theHuxley$HUX___2203.coverage" NAME="HUX - 2203 Coverage Results" MODIFIED="1557486296540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/theHuxley$HUX___2000.coverage" NAME="HUX - 2000 Coverage Results" MODIFIED="1557504228344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/theHuxley$HUX___1302.coverage" NAME="HUX - 1302 Coverage Results" MODIFIED="1557506006982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/theHuxley$HUX___675.coverage" NAME="HUX - 675 Coverage Results" MODIFIED="1556847623082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/theHuxley$HUX___2353.coverage" NAME="HUX - 2353 Coverage Results" MODIFIED="1557503548899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/theHuxley$HUX___1291.coverage" NAME="HUX - 1291 Coverage Results" MODIFIED="1557505612495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/theHuxley$HUX___1250.coverage" NAME="HUX - 1250 Coverage Results" MODIFIED="1557518819055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HUX - 2346.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="15" lean-forward="true" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HUX - 236.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="13" column="18" selection-end-line="15" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HUX - 954.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="17" column="18" lean-forward="true" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HUX - 207.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="24" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HUX - 747.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -689,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HUX - 2353.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -705,8 +682,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HUX - 2000.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="252">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HUX - 1291.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="61" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HUX - 1302.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="20" column="18" lean-forward="true" selection-end-line="22" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HUX - 2412.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="9" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="4" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HUX - 1250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

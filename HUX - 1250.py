@@ -1,17 +1,29 @@
 from math import ceil
 nBatalhas = int(input())
-batalhas = []
-for bat in range(nBatalhas):
-    batalhas.append(input().split())
-    v1 = int(batalhas[bat][0])
-    v2 = int(batalhas[bat][1])
-    d1 = int(batalhas[bat][2])
-    d2 = int(batalhas[bat][3])
-    d1 += 50
-    atqClodes = ceil(v2/d1)+1
-    atqBezaliel = ceil(v1/d2)
-    print(atqClodes, atqBezaliel)
-    if atqClodes > atqBezaliel:
-        print("Bezaliel")
+for x in range(nBatalhas):
+    dados = input().split()
+    vC = int(dados[0])
+    vB = int(dados[1])
+    dC = int(dados[2])
+    dB = int(dados[3])
+    atqsB = ceil(vC/dB)
+    turnoBeza = atqsB
+    aumento = 0
+    turnoClodes = 0
+    clodesVenceu = 0
+    while turnoBeza > 0:
+        atqsC = ceil(vB/dC)
+        turnoClodes = atqsC + aumento
+        if turnoClodes <= atqsB:
+            clodesVenceu = 1
+            break
+        else:
+            dC += 50
+            aumento += 1
+        turnoBeza -= 1
+    # print(turnoClodes)
+    # print(atqsB)
+    if clodesVenceu:
+        print('Clodes')
     else:
-        print("Clodes")
+        print('Bezaliel')
